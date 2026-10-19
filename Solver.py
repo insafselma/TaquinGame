@@ -1,5 +1,9 @@
-
-
+from Board import (
+    is_goal,
+    get_successors,
+    misplaced_tiles,
+    f_cost
+)
 def a_star(start_state):
     states = [start_state]                              # les damiers découverts
     g_costs = [0]                                       # g de chaque damier
