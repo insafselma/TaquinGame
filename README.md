@@ -1,2 +1,2 @@
 # TaquinGame
-Taquin game using the A* algorithm 
+Taquin game ( 8*8 puzzle ) using the A* algorithm 
